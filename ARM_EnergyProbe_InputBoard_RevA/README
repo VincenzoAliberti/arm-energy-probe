@@ -1,0 +1,25 @@
+arm-energy-probe
+================
+
+ARM Energy Probe Input Board support material
+
+================
+
+Files Description:
+=== ARM_EnergyProbe_InputBoard_RevA.png ======================================
+3D Rendering of the assembled Input Board
+
+=== ARM_EnergyProbe_InputBoard_BOM_RevA.csv ==================================
+Bill Of Material for the Input Board
+
+=== ARM_EnergyProbe_InputBoard_PCB_RevA.pdf ==================================
+Simplified 2 layers PCB preview in PDF
+
+=== ARM_EnergyProbe_InputBoard_PCB_RevA.tar.gz ===============================
+Simplified 2 layers PCB production files
+
+=== ARM_EnergyProbe_InputBoard_Schematic_RevA.pdf ============================
+Electrical Schematic for the Input Board in PDF
+
+=== README ===================================================================
+This file

@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"SM2512";1;"50mOhm";"RS: 567-017";;
+2;"C1";"SM1210";1;"100nF";"RS: 769-7260";;
+3;"C2";"SM1206POL";1;"10uF";"RS: 684-5014";;
+4;"J2";"PIN_ARRAY_3X1";1;"Header_3x1";"RS: 531-936";;
+5;"J3";"PIN_ARRAY_2X1";1;"Header_2x1";"RS: 531-936";;
+6;"J1";"JACK_ALIM";1;"RAPC712BK";"RS: 705-1547";;
+7;",,,";"1pin";4;"";;;

@@ -1,0 +1,30 @@
+arm-energy-probe
+================
+
+ARM Energy Probe Input Board support material
+
+================
+
+Files Description:
+=== ARM_EnergyProbe_InputBoard_RevA ==========================================
+Documentation for Input Board Rev A
+
+=== ARM_EnergyProbe_InputBoard_Rshunt.xlsx ===================================
+SpreadSheet for Input Board Rshunt evaluation
+Insert value for Rshunt and spreadsheet will provide values for:
+- Probe Resolution in A
+- Max value of current that will be possible to measure
+- Max Power on the Rshunt
+
+=== HISTORY ==================================================================
+Project History
+
+=== LICENSE ==================================================================
+License files
+
+=== power_plot.p =============================================================
+Gnuplot script file for plotting data coming from ARM Energy Probe Linaro 
+utility availabe at http://staging.git.linaro.org/git-ro/tools/arm-probe.git
+
+=== README ===================================================================
+This file
