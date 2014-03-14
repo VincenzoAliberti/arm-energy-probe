@@ -1,3 +1,9 @@
 === ARM Energy Probe Input Board Project History =============================
 20131223 1st Commit by Vincenzo Aliberti vincenzo.aliberti@gmail.com
-20140109 2nd Commit: added solder mask and overlay layers to PCB
+
+20140109 2nd Commit: 
+Added solder mask and overlay layers to PCB
+
+20140314 3rd Commit: 
+Replaced connector RAPC712BK [2.5mm pin] with RAPC722BK [2.0mm pin]
+
